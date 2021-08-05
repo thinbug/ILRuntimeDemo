@@ -1,3 +1,4 @@
 # ILRuntimeDemo
 
-使用ILRuntime 热更新的示例代码.
+浣跨敤ILRuntime 鐑洿鏂扮殑绀轰緥浠ｇ爜.
+
