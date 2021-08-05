@@ -25,7 +25,7 @@ namespace HotProject
 
             SerializationData sd2 = (SerializationData)sd.dict["sdata"];
             Text t2 = (Text)sd2.dict["txt"];
-            t2.text = "序列化的文本!!!";
+            t2.text = "序列化的文本!!! by Hot dll";
         }
 
         public static void Update()

@@ -7,8 +7,6 @@ H:\UnityProject\ILRuntime\HotProject\obj\Debug\HotProject.pdb
 H:\UnityProject\ILRuntime\HotProject\obj\Debug\HotProject.csproj.CopyComplete
 E:\GitProject\ILRuntimeDemo\Assets\StreamingAssets\HotProject.dll
 E:\GitProject\ILRuntimeDemo\Assets\StreamingAssets\HotProject.pdb
-E:\GitProject\ILRuntimeDemo\HotProject\obj\Debug\HotProject.csproj.AssemblyReference.cache
 E:\GitProject\ILRuntimeDemo\HotProject\obj\Debug\HotProject.csproj.CoreCompileInputs.cache
-E:\GitProject\ILRuntimeDemo\HotProject\obj\Debug\HotProject.csproj.CopyComplete
 E:\GitProject\ILRuntimeDemo\HotProject\obj\Debug\HotProject.dll
 E:\GitProject\ILRuntimeDemo\HotProject\obj\Debug\HotProject.pdb
